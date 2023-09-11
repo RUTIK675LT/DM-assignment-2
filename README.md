@@ -1,7 +1,7 @@
 # DM-assignment-2
 
 ## Assignment 1 -
-#### Using JADBio, an autoML tool to analyse dataset with no-code approach
+## Using JADBio, an autoML tool to analyse dataset with no-code approach
 *JADBio link -*
 https://jadbio.com/
 
@@ -14,7 +14,7 @@ https://jadbio.com/
 4.) Select parameters for analysis and generate a report.
 
 ## Assignment 2
-#### Using pycaret to perform low-code data mining in tasks such as -
+## Using pycaret to perform low-code data mining in tasks such as -
 Binary Classification, Multiclass Classification, Regression, Clustering, Anomaly Detection, Association Rules Mining, Time Series Forecasting.
 1.) Install pycaret 
 ` !pip install pycaret `
