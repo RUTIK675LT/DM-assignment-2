@@ -10,8 +10,8 @@ https://jadbio.com/
 3.) Setup JADBio and upload dataset
 4.) Select parameters for analysis and generate a report.
 
-##Assignment 2
-Using pycaret to perform low-code data mining in tasks such as -
+## Assignment 2
+#### Using pycaret to perform low-code data mining in tasks such as -
 Binary Classification, Multiclass Classification, Regression, Clustering, Anomaly Detection, Association Rules Mining, Time Series Forecasting.
 1.) Install pycaret 
 ` !pip install pycaret `
