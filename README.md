@@ -1,7 +1,7 @@
 # DM-assignment-2
 
 ## Assignment 1 -
-## Using JADBio, an autoML tool to analyse dataset with no-code approach
+## Using JADBio, an autoML tool to analyse dataset with no-code approach -
 *JADBio link -*
 https://jadbio.com/
 
